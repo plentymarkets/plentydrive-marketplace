@@ -1,0 +1,44 @@
+{
+  "name": "plentyDrive",
+  "marketplaceName": {
+    "de": "plentyDrive",
+    "en": "plentyDrive"
+  },
+  "namespace": "PlentyDrive",
+  "type": "tool",
+  "version": "0.3.0",
+  "license": "AGPL-3.0",
+  "pluginIcon": "icon_plugin_xs.png",
+  "price": 0.00,
+  "description": "Durch das neue plentymarkets Tool plentyDrive werden zeitraubende Plugin-Bereitstellungen durch die Synchronisierung einer lokalen Inbox mit dem Stage-Modus des plentymarkets Systems verkürzt.",
+  "shortDescription": {
+    "de": "Durch das neue plentymarkets Tool plentyDrive werden zeitraubende Plugin-Bereitstellungen durch die Synchronisierung einer lokalen Inbox mit dem Stage-Modus des plentymarkets Systems verkürzt.",
+    "en": "The new plentymarkets tool plentyDrive offers the functionality to skip time-consuming plugin builds by synchronising your local inbox with your system's preview mode stage."
+  },
+  "categories": [
+    "3521"
+  ],
+  "keywords": [
+    "plugins",
+    "plentyDrive",
+    "processes",
+    "printers",
+    "documents"
+  ],
+  "author": "plentymarkets GmbH",
+  "authorIcon": "icon_author_xs.png",
+  "email": "support@plentymarkets.com",
+  "serviceProvider": "ServiceProvider",
+  "containers": [],
+  "dataProviders": [],
+  "javaScriptFiles": [],
+  "require": [],
+  "dependencies": [],
+  "runOnBuild": [],
+  "isExternalTool": true,
+  "directDownloadLinks": {
+    "Windows": "http://download.plentybase.de/plentydrive/plentyDrive_setup_0.3.0.exe",
+    "MacOs": "http://download.plentybase.de/plentydrive/plentyDrive-0.3.0.dmg",
+    "Linux": "http://download.plentybase.de/plentydrive/plentydrive_0.3.0_amd64.deb"
+  }
+}
