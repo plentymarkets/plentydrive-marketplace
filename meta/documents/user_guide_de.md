@@ -11,7 +11,7 @@ Laden Sie plentyDrive für Ihr Betriebssystem herunter und folgen Sie den Instal
 Richten Sie plentyDrive wie nachfolgend beschrieben ein.
 
 1. Öffnen Sie plentyDrive.
-2. Geben Sie Ihre plentymarkets Domain ein.
+2. Geben Sie Ihre plentymarkets Domain ein. Benutzen Sie dafür https:// bzw. http://.
 3. Geben Sie Ihre Login-Daten ein.
 4. Klicken Sie auf **Login**.<br />→ plentyDrive wird mit Ihrem plentymarkets System verbunden.
 5. Klicken Sie auf **Einstellungen**.

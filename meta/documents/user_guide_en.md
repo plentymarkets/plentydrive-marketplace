@@ -4,14 +4,14 @@ The new plentymarkets tool plentyDrive offers the functionality to skip time-con
 
 ## Installing plentyDrive
 
-Click the link for your operating system and follow the respective installation routine.
+Click the download link for your operating system and follow the respective installation routine.
 
 ## Configuring plentyDrive
 
 Follow these steps to complete the setup of plentyDrive.
 
 1. Open plentyDrive.
-2. Enter your plentymarkets domain.
+2. Enter your plentymarkets domain. Use https:// or http://.
 3. Enter your login data.
 4. Click on **Login**.<br />→ plentyDrive is logged into your system.
 5. Click on **Settings**.
