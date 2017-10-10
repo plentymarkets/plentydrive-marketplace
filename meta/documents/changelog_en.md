@@ -1,5 +1,12 @@
 # Release Notes for plentyDrive
 
+## 0.3.1 (2017-10-10)
+
+### Fixed
+
+- Fixed launch problems in Windows 10
+- Ignore temporary files in JetBrains IDEAs
+
 ## 0.3.0 (2017-09-13)
 
 ### Added

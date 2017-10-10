@@ -1,5 +1,23 @@
 # Release Notes für plentyDrive
 
+## 0.3.1 (2017-10-10)
+
+### Behoben
+
+- Startprobleme unter Windows10 behoben
+- Temporäre Dateien von JetBrains IDEAs werden ignoriert
+
+## 0.3.0 (2017-09-13)
+
+### Hinzugefügt
+
+- Mehrsprachigkeit
+- Terra Vorschau kommuniziert nun im stage modus
+
+### Behoben
+
+- Passwort feld wurde angepasst
+
 ## 0.2.1 (2017-07-07)
 
 ### Hinzugefügt
