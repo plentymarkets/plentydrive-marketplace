@@ -1,5 +1,19 @@
 # Release Notes for plentyDrive
 
+## 0.4.0 (2018-02-28)
+
+### Added
+
+- Splitted import of ElasticSync syncs (Requires ElasticSync version 2.1.1 or earlier)
+- Synchronisation of **Frontend** files
+- Update of the user interface
+
+### Fixed
+
+- A couple of ui issues were fixed
+- The input labels should be translated correctly now
+- Files will be deleted localy when they were deleted in the system
+
 ## 0.3.1 (2017-10-10)
 
 ### Fixed
