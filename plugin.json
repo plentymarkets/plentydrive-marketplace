@@ -37,8 +37,8 @@
   "runOnBuild": [],
   "isExternalTool": true,
   "directDownloadLinks": {
-    "Windows": "http://download.plentybase.de/plentydrive/plentyDrive_setup_0.4.0.exe",
-    "MacOs": "http://download.plentybase.de/plentydrive/plentyDrive-0.4.0.dmg",
-    "Linux": "http://download.plentybase.de/plentydrive/plentydrive_0.4.0_amd64.deb"
+    "Windows": "http://download.plentybase.de/plentydrive/plentyDrive_setup_0.4.1.exe",
+    "MacOs": "http://download.plentybase.de/plentydrive/plentyDrive-0.4.1.dmg",
+    "Linux": "http://download.plentybase.de/plentydrive/plentydrive_0.4.1_amd64.deb"
   }
 }
