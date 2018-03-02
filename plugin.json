@@ -6,7 +6,7 @@
   },
   "namespace": "PlentyDrive",
   "type": "tool",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "license": "AGPL-3.0",
   "pluginIcon": "icon_plugin_xs.png",
   "price": 0.00,
