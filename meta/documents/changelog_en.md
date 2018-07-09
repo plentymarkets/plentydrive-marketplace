@@ -1,5 +1,18 @@
 # Release Notes for plentyDrive
 
+## 0.6.0 (2018-07-06)
+
+### Behoben
+
+- Error during upload or download of many files fixed
+- Update of the user interface
+
+## 0.5.0 (2018-06-07)
+
+### Anpassung
+
+- Folder changed for plugin sets
+
 ## 0.4.0 (2018-02-28)
 
 ### Added
