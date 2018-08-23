@@ -4,7 +4,7 @@
 
 ### Fixed
 
-- Fixed incorrect download of files (access denied)
+- Defective download of files was fixed (access denied)
 
 ## 0.6.0 (2018-07-06)
 
