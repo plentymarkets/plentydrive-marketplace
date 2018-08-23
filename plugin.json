@@ -6,7 +6,7 @@
   },
   "namespace": "PlentyDrive",
   "type": "tool",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "license": "AGPL-3.0",
   "pluginIcon": "icon_plugin_xs.png",
   "price": 0.00,
@@ -37,8 +37,8 @@
   "runOnBuild": [],
   "isExternalTool": true,
   "directDownloadLinks": {
-    "Windows": "http://download.plentybase.de/plentydrive/plentyDrive_setup_0.6.0.exe",
-    "MacOs": "http://download.plentybase.de/plentydrive/plentyDrive-0.6.0.dmg",
-    "Linux": "http://download.plentybase.de/plentydrive/plentydrive_0.6.0_amd64.deb"
+    "Windows": "http://download.plentybase.de/plentydrive/plentyDrive_setup_0.6.1.exe",
+    "MacOs": "http://download.plentybase.de/plentydrive/plentyDrive-0.6.1.dmg",
+    "Linux": "http://download.plentybase.de/plentydrive/plentydrive_0.6.1_amd64.deb"
   }
 }
