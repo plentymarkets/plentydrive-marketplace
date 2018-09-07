@@ -1,5 +1,18 @@
 # Release Notes for plentyDrive
 
+## 0.7.1 (07.09.2018)
+
+### Fixed
+
+- Sync directory setting reset to be able to use new sync logic
+
+## 0.7.0 (2018-08-29)
+
+### Hinzugefügt
+
+- Selection of sets to be synchronized
+- Delete files & directories is synchronized in both directions
+
 ## 0.6.1 (2018-08-23)
 
 ### Fixed
