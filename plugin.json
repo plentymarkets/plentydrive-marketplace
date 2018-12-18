@@ -12,8 +12,8 @@
   "price": 0.00,
   "description": "Durch das neue plentymarkets Tool plentyDrive werden zeitraubende Plugin-Bereitstellungen durch die Synchronisierung einer lokalen Inbox mit dem Stage-Modus des plentymarkets Systems verkürzt.",
   "shortDescription": {
-    "de": "Durch das neue plentymarkets Tool plentyDrive werden zeitraubende Plugin-Bereitstellungen durch die Synchronisierung einer lokalen Inbox mit dem Stage-Modus des plentymarkets Systems verkürzt.",
-    "en": "The new plentymarkets tool plentyDrive offers the functionality to skip time-consuming plugin builds by synchronising your local inbox with your system's preview mode stage."
+    "de": "Durch das neue plentymarkets Tool plentyDrive werden zeitraubende Plugin-Bereitstellungen durch die Synchronisierung einer lokalen Inbox mit dem Stage-Modus des plentymarkets Systems verkürzt. **Achtung**: plentyDrive 0.7.1 ist nicht kompatibel mit Windows 10.",
+    "en": "The new plentymarkets tool plentyDrive offers the functionality to skip time-consuming plugin builds by synchronising your local inbox with your system's preview mode stage. **Warning**: plentyDrive 0.7.1 is not compatible with Windows 10."
   },
   "categories": [
     "3521"
